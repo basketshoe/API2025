@@ -2,6 +2,12 @@
 
 ## MovHex
 
+| Votazione | Execution Time | Memory Used |
+| --------- | -------------- | ----------- |
+|     27/30 |        9.715 s |    51.2 MiB |
+
+---
+
 | Grade | Time limit | Memory limit |
 |-------|------------|--------------|
 | Open  | 60.00 s    | 300 MiB      |
